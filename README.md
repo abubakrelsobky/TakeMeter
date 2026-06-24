@@ -1,6 +1,6 @@
 # TakeMeter
 
-GitHub repository: TODO - paste the final repo URL here after pushing.
+GitHub repository: https://github.com/abubakrelsobky/TakeMeter
 
 ## Overview
 
