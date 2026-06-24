@@ -1,0 +1,8 @@
+torch>=1.13
+transformers>=4.30
+datasets>=2.13
+scikit-learn
+pandas
+tqdm
+python-dotenv
+requests
